@@ -1,22 +1,15 @@
-Hello, I am a Japanese and I'm a self-taught programmer. I've been working with JavaScript and Typescript for the most time.
+# 💫 About Me:
+Hello, my name is Shun. I'm a self-taught programmer. I enjoy writing clean code, learning new things, making designs, and automating tasks.<br><br>🚀 Currently working on: A Password Manager Application (for personal use and distribution)<br>📚 Languages: Japanese, Thai, English<br>🌟 Familiar tools: React, NodeJS, TypeScript, Git, Docker
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=iwashun22&show_icons=true&theme=dark&count_private=true)
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashun22&count_private=true&theme=dark)
 
-## My comfortable Languages
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iwashun_05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iwashunabc519@gmail.com) 
 
-> JavaScript
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=iwashun22&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=iwashun22&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=iwashun22&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-> Python
-
-> CSS (Sass)
-
-<div display="flex" flex-wrap="no-wrap">
- 
- <img width="40px" heigth="40px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVXB1PEDGFNE5QUkYJaySJcgnXiP9hZdZZfgiI1arB1GrzxswvRO2sNUfVg478oFoSQVs&usqp=CAU">
- 
- <img width="40px" height="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"/>
- 
- <img width="40px" height="40px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png"/> 
-<div/>
- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
